@@ -1,2 +1,2 @@
-# Sihang-Han-Hui
+# Sihang Hui
 Personal Website 
